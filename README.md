@@ -8,8 +8,6 @@ pytorch == 1.9.0
 
 Numpy == 1.21.6
 
-rdkit == 2023.3.2
-
 scikit-learn == 1.0.2
 
 PyTorch Geometry == 2.0.3
